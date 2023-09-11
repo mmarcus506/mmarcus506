@@ -1,12 +1,5 @@
-<div>
-  <a href="https://github.com/mmarcus506">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmarcus506&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarcus506&layout=compact&langs_count=6&theme=tokyonight"/>
-<div>
-  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mmarcus506&layout=compact&theme=dracula)
-</div>
- 
- <br>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
  
 <div> 
   <a href="https://www.instagram.com/mmarcus506/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
